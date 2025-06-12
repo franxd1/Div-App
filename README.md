@@ -1,4 +1,4 @@
-# 🧾 Divisordecontas App
+# 🧾 Divisor decontas App
 
 Aplicativo simples feito com **React Native (JavaScript)** para dividir o valor de uma conta entre várias pessoas, com opção de adicionar gorjeta.
 
