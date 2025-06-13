@@ -12,6 +12,8 @@ Na tela principal, o usuário pode:
 - (Opcionalmente) adicionar o **valor da gorjeta**
 - E, com um clique, ver **quanto cada pessoa deve pagar**
 
+![Demonstração do App](./assets/divapp.gif)
+
 
 ## 🧠 Tecnologias utilizadas
 
